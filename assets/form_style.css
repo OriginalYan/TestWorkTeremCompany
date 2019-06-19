@@ -1,0 +1,7 @@
+form{
+    margin-top: 30px;
+}
+
+form input[type="text"], form select{
+    width: 200px;
+}
